@@ -1,0 +1,10 @@
+- Otimizar código (por último):
+
+* HTML e CSS Minify;
+----------------------------------------
+- Colocar mais info. no rodapé
+----------------------------------------
+* Colocar mais notícias na página inicial;
+-----------------------------
+Escrever parágrafo da tela inicial;
+Colocar imagens, nomes dos jogos e link em JOGOS EM ALTA;
